@@ -1,0 +1,83 @@
+id: PF4CDADAC
+initial_creation_type: input
+source_metadata:
+  title: Tertön Sogyal Series
+  language: en
+  description: 'Texts by and about the famous treasure-revealer and teacher of the
+    Thirteenth Dalai Lama, Tertön Sogyal Lerab Lingpa (gter ston bsod rgyal las rab
+    gling pa, 1856-1926):'
+  volume:
+    ec7c35017765461caba4fd92c3f46851:
+      title: Advice from the Lips of Tertön Sogyal
+      parent: Advice
+    5b92ded9ec30418d8f2f69f19ce4a13f:
+      title: From the Oral Tradition of the Lama of Nyarong
+      parent: Advice
+    de8c8490e5904a79a8808d32f2158e7f:
+      title: Prayer for the Flourishing of the Teachings
+      parent: Aspiration Prayers
+    e5533a24b4174dbbabf6a998aa8f4791:
+      title: Brief Prayer for Pacifying the Turmoil of the Mamos
+      parent: Dharma Protectors
+    7ecda8bd28374b45b28fed8a068b22ae:
+      title: Serkyem (Golden Libation) Offering to the Guardians of the Tradition
+      parent: Dharma Protectors
+    acf3f7f7bce2444f91144d60bc3cda49:
+      title: Brief Explanation of Clarification and Transcendental Resolution from
+        the Oral Tradition of Nyala Sogyal
+      parent: Dzogchen
+    70bceb2a559b45869887629ddcedc0e9:
+      title: Guru Yoga
+      parent: Guru Yoga
+    9a3f8a73a58a4ee29bb754fe334a43c2:
+      title: The Guru Yoga of the Profound Path
+      parent: Guru Yoga
+    e2eb5033807e486593d010e432725c25:
+      title: A Vajrakīla Lineage Prayer
+      parent: Lineage Prayers
+    29d90628d07c40c68634ed895f6bef9b:
+      title: 'The Sweet Song of Māra''s Defeat: A Prayer for the Long Life of the
+        Great Tertön and Vidyādhara Lerab Lingpa'
+      parent: Long Life Prayers
+    1e1f64fcd0dd453a9f314bb59daf5104:
+      title: The Seeds of Faith, A Prayer to the Vidyādhara and Great Tertön Lerab
+        Lingpa
+      parent: Prayers
+    11d4c34876754cc391d20a5b6e6d9304:
+      title: Sādhana of Mañjughoṣa
+      parent: Sādhanas
+    5ec93e42d117471799b6dc24b2b6a7f5:
+      title: The Method to Pacify All Epidemics, Illnesses and Pandemics from the
+        Sixty Solitary Forms of Yamāntaka
+      parent: Sādhanas
+    aed389bd096542ae8a4954e26c267a9c:
+      title: 'The Swift Path to Great Bliss: A Sādhana of Amitābha, Buddha of Limitless
+        Light'
+      parent: Sādhanas
+    651e550f04ef49ccbf130e94dcd28016:
+      title: A Lamenting Plea for Compassion
+      parent: Songs
+    24d0faadedef4261a4e78908d102ee78:
+      title: A Synopsis of the Vajra-Guru Mantra
+      parent: Vajra Guru Mantra
+    b18590e946464cb48ec3924ec96e4b2d:
+      title: 'Inventory: The Perfectly Clear Mirror from the Razor of the Innermost
+        Essence'
+      parent: Vajrakīla
+    6071971837c4456eb8a2c8ceb9c344eb:
+      title: 'The Falling Rain of Blessings: A Prayer of Inspiration'
+      parent: Vajrakīla
+    bae61ccb40d64cd6bcb9153167c5185c:
+      title: The Summoning of Blessings which Brings them Swift and Fast
+      parent: Vajrakīla
+    30e51165870e43ffa7393c15b99e863d:
+      title: The Ultimate, Natural Dispeller of Obstacles
+      parent: Vajrakīla
+    726ad197b0ba4a6fa0bae89172ac89cc:
+      title: The Wisdom Mind Practice of One Kīla
+      parent: Vajrakīla
+    7860e516b7b44cceae1e16cdd857c717:
+      title: The Twenty-Eight Commitments
+      parent: Tantra
+created_at: '2022-03-01T01:44:22.622897'
+last_modified_at: '2022-03-01T01:44:22.622903'
